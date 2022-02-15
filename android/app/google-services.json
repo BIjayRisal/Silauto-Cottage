@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "531984808435",
+    "project_id": "silautocottage",
+    "storage_bucket": "silautocottage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531984808435:android:bb4a4e3643eec733303a86",
+        "android_client_info": {
+          "package_name": "com.example.silauto_cottage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531984808435-fgm1899lqadn2qn4h5q36aq11t2cv53u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.silauto_cottage",
+            "certificate_hash": "36fb785ebcfa134945010a40fd6ddf06918cce32"
+          }
+        },
+        {
+          "client_id": "531984808435-ki5ok9nlu16la8n2k2fth3eqj28mn72h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSbX8CCk3v_QjyxsLv_1KfzQIYIrPpBxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531984808435-ki5ok9nlu16la8n2k2fth3eqj28mn72h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
